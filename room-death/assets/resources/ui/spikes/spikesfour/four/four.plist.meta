@@ -1,0 +1,36 @@
+{
+  "ver": "1.2.6",
+  "uuid": "298190fd-f483-4c1e-9376-829921331aa0",
+  "importer": "sprite-atlas",
+  "rawTextureUuid": "5783895e-2802-4abc-a97e-58745a73358f",
+  "size": {
+    "width": 320,
+    "height": 320
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "spikes (26).png": {
+      "ver": "1.0.6",
+      "uuid": "d248a750-43be-4d04-87ae-79ba6bb3faf8",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "5783895e-2802-4abc-a97e-58745a73358f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 320,
+      "height": 320,
+      "rawWidth": 320,
+      "rawHeight": 320,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}
